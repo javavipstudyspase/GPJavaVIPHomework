@@ -11,6 +11,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>Factory-Pattern-20190306</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>../Singleton-Pattern-20190309</module>
+    </modules>
 
 
 </project>
